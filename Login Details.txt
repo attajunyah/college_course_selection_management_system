@@ -3,25 +3,10 @@
 
 
 ** Student Login
-1. Username: bryan
+1. Username: 20165308002
    Password: 123456
 
-2. Username: chris
-   Password: 123456
-
-3. Username: benito
-   Password: 123456
-
-4. Username: daxelle
-   Password: 123456
-
-5. Username: aziz
-   Password: 123456
-
-6. Username: mikexzibit
-   Password: 123456
-
-****************************************
+**************************************
 
 
 **Lecturer Login
