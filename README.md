@@ -69,11 +69,12 @@ Go to your XAMPP software, Press "Manage Servers" from the menu tab and then sta
 ## Now website is ready to be launched. 
 ``` localhost/college_course_selection_management_system ```
 
-// Login details 
-*************************************
+## Login details 
 
-**Admin Login
+**Admin Login**
+
 Username: admin
+
 Password: admin
 
 
