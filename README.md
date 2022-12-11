@@ -1,5 +1,7 @@
 # College Course Selection Management System
 
+Course Selection Portal is a full stack web development project using vanilla Javascript and PHP. The system allows students to select courses and gives students access to course offerings via online as well as the ability to complete various administrative functions allowing for a better management of curriculum decisions in the context of academic objectives. This Course Selection Portal will be operated by three users, the administrator, students and lecturers.
+
 ![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-homepage.png)
 
 ![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-admin1.png)
@@ -13,8 +15,6 @@
 ![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-table3.png)
 
 ![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-table4.png)
-
-Course Selection Portal is a full stack web development project using vanilla Javascript and PHP. The system allows students to select courses and gives students access to course offerings via online as well as the ability to complete various administrative functions allowing for a better management of curriculum decisions in the context of academic objectives. This Course Selection Portal will be operated by three users, the administrator, students and lecturers.
 
 
 # Tech/Framework Used
