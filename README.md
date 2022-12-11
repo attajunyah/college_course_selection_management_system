@@ -8,7 +8,7 @@
 
 ![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-table1.png)
 
-![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-tabl2.png)
+![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-table2.png)
 
 ![alt text](https://raw.githubusercontent.com/attajunyah/college_course_selection_management_system/master/college-table3.png)
 
